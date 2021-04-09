@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @feizelcrux
+- 👀 I’m interested in software development, research projects, AI.
+- 🌱 I’m currently learning Data analytics.
+- 💞️ I’m looking to collaborate on research projects.
+- 📫 How to reach me: If you are interested in invite to a collaboration please send me a mail to: feizel.crux1992@mail.com. On the mail explain the purpose of project.
